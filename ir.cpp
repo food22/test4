@@ -6,8 +6,11 @@ using namespace pxt;
 typedef vector<Action> vA;
 
 enum class Pins{
+	/*
   P0=  3,
+  */
   P1=  2,
+  /*
   P2=  1,
   P3=  4,
   P4=  5,
@@ -25,6 +28,7 @@ enum class Pins{
   P16= 16,
   P19= 0,
   P20= 30
+  */
 };
 
 enum class RemoteButton {
